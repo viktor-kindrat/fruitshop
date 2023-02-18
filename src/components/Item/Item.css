@@ -1,0 +1,34 @@
+.Item {
+    width: min(250px, 95%);
+    display: flex;
+    gap: 25px;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    border: 1px solid #757575;
+    border-radius: 5px;
+    padding: 15px;
+    text-align: center;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+.Item-img {
+    height: 200px;
+    aspect-ratio: 1/1;
+    object-fit: contain;
+}
+
+.Item-Headline {
+    font-family: "Libre Baskerville", serif;
+    color: #002500;
+    font-size: 25px;
+}
+
+.Item-price {
+    font-family: "Montserrat", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+}

@@ -1,0 +1,25 @@
+.Pear {
+    width: 100%;
+    display: flex;
+    gap: 25px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 25px 150px;
+}
+
+.Pear-headline {
+    color: #002500;
+    text-transform: uppercase;
+    font-size: 45px;
+    font-family: "Libre Baskerville", serif;
+}
+
+.Pear-container {
+    width: 100%;
+    display: flex;
+    gap: 25px;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}

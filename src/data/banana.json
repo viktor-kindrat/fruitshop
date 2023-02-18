@@ -1,0 +1,19 @@
+[{
+        "id": 0,
+        "img": "https://i.pinimg.com/originals/ed/12/e2/ed12e284808093f440831d4a50fe4505.png",
+        "name": "Banana man",
+        "price": "1000$"
+    },
+    {
+        "id": 1,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Banana.png/836px-Banana.png",
+        "name": "Casual banana",
+        "price": "5$"
+    },
+    {
+        "id": 2,
+        "img": "https://cdn.shopify.com/s/files/1/2140/1051/files/green-bananas.png",
+        "name": "Green banana",
+        "price": "52$"
+    }
+]

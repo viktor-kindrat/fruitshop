@@ -1,0 +1,19 @@
+[{
+        "id": 0,
+        "img": "https://www.pngarts.com/files/12/Apple-Fruit-PNG-Image-Background.png",
+        "name": "Aplle casual",
+        "price": "5$"
+    },
+    {
+        "id": 1,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Apple-logo.png/640px-Apple-logo.png",
+        "name": "Apple company",
+        "price": "250$"
+    },
+    {
+        "id": 2,
+        "img": "https://purepng.com/public/uploads/large/purepng.com-golden-applefoodsweettastyhealthyfruitapplegirl-981524680516epzoc.png",
+        "name": "Golden apple",
+        "price": "10$"
+    }
+]

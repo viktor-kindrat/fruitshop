@@ -1,0 +1,19 @@
+[{
+        "id": 0,
+        "img": "https://static.vecteezy.com/system/resources/previews/015/100/142/original/pear-fruit-transparent-background-free-png.png",
+        "name": "Casual pear",
+        "price": "10$"
+    },
+    {
+        "id": 1,
+        "img": "https://pics.clipartpng.com/Yellow_Pear_PNG_Clipart-265.png",
+        "name": "Golden pear",
+        "price": "25$"
+    },
+    {
+        "id": 2,
+        "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f0e13eb8-4db6-4a3e-97ea-918a4dce742b/delov4f-8fb4c461-ad18-4dc4-8127-c1bf7bb14536.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2YwZTEzZWI4LTRkYjYtNGEzZS05N2VhLTkxOGE0ZGNlNzQyYlwvZGVsb3Y0Zi04ZmI0YzQ2MS1hZDE4LTRkYzQtODEyNy1jMWJmN2JiMTQ1MzYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.O13XIlaEzLnNcnC-unWgBu0PMrA1NeM4Rx2W0KcZyDQ",
+        "name": "Pearphone",
+        "price": "25$"
+    }
+]
