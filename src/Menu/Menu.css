@@ -1,0 +1,16 @@
+.Menu {
+    display: flex;
+    gap: 25px;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.Menu-item {
+    font-family: "Libre Baskerville", serif;
+    font-size: 18px;
+    color: #002500;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    cursor: pointer;
+}

@@ -1,0 +1,50 @@
+.Contact {
+    padding: 25px;
+    width: min-content;
+    display: flex;
+    gap: 25px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: #fefefe;
+    box-shadow: 0 0 25px #00000025;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+.Contact-headline {
+    font-family: "Libre Baskerville", serif;
+    font-size: 35px;
+    color: #002500;
+}
+
+.Contact-area {
+    min-height: 100px;
+    resize: vertical;
+    font-family: "Montserrat";
+    color: #141414;
+    border: 1px solid #00250025;
+    outline: none;
+    padding: 10px;
+    border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+}
+
+.Contact-btn {
+    font-family: "Montserrat";
+    padding: 10px 30px;
+    border: 1px solid #002500;
+    border-radius: 2px;
+    cursor: pointer;
+    background: #ffffff;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+}

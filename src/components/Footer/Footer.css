@@ -1,0 +1,16 @@
+.Footer {
+    width: 100%;
+    display: flex;
+    gap: 25px;
+    flex-wrap: wrap;
+    align-items: center;
+    align-content: space-between;
+    justify-content: space-between;
+    padding: 50px 150px;
+    border-top: 2px solid #26bf26;
+    margin-top: 25px;
+}
+
+.Footer>* {
+    width: min(250px, 100%);
+}

@@ -1,0 +1,26 @@
+.Info {
+    display: flex;
+    gap: 25px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: "Montserrat", sans-serif;
+}
+
+.Info-headline {
+    font-family: "Libre Baskerville", serif;
+    font-size: 35px;
+    color: #002500;
+}
+
+.Info-row {
+    display: flex;
+    gap: 25px;
+    align-items: center;
+    justify-content: space-between;
+    color: #333333;
+}
+
+.Info-item {
+    cursor: pointer;
+}
