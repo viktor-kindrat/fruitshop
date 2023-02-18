@@ -16,6 +16,13 @@ function Header(){
                 </a>
             </div>
             <div className="Header-separator"></div>
+            <div className="Header-row">
+                <span className="Header-navitem"> Home </span>
+                <span className="Header-navitem"> Banana </span>
+                <span className="Header-navitem"> Aplle </span>
+                <span className="Header-navitem"> Pear </span>
+                <span className="Header-navitem"> Contact us </span>
+            </div>
         </header>
     )
 }

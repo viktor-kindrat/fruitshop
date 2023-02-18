@@ -45,3 +45,42 @@
     background: #9FA0FF;
     border-radius: 2px;
 }
+
+.Header-navitem {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #272932;
+    cursor: pointer;
+    position: relative;
+}
+
+.Header-navitem::after {
+    content: "";
+    width: 0;
+    height: 3px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    transition: .2s;
+    -webkit-transition: .2s;
+    -moz-transition: .2s;
+    -ms-transition: .2s;
+    -o-transition: .2s;
+}
+
+.Header-navitem:hover::after {
+    width: 100%;
+    background: #002500;
+    border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+}
