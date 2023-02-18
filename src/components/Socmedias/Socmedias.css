@@ -1,0 +1,20 @@
+.Socmedias {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 25px;
+}
+
+.Socmedias-item {
+    height: 25px;
+    width: 25px;
+    text-decoration: none;
+    color: #131313;
+    cursor: pointer;
+}
+
+.Socmedias-img {
+    height: 100%;
+    aspect-ratio: 1/1;
+    object-fit: contain;
+}

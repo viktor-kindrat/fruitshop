@@ -1,0 +1,47 @@
+.Header {
+    min-height: 10vh;
+    width: 100%;
+    display: flex;
+    gap: 25px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 25px 150px;
+}
+
+.Header-row {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.Header-contact {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: flex-start;
+    text-decoration: none;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #272932;
+}
+
+.Header-contact img {
+    height: 20px;
+    aspect-ratio: 1/1;
+    object-fit: contain;
+}
+
+.Header-separator {
+    height: 3px;
+    width: 100%;
+    background: #9FA0FF;
+    border-radius: 2px;
+}
